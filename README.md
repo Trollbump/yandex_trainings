@@ -43,6 +43,8 @@
 |-------------|--------|
 |Twas brillig, and the slithy toves<br/>Did gyre and gimble in the wabe;<br/>All mimsy were the borogoves,<br/>And the mome raths outgrabe.|<pre>         #              <br/>         #              <br/>         #              <br/>         #              <br/>         #              <br/>         #         #    <br/>         #  #      #    <br/>      #  # ###  ####    <br/>      ## ###### ####    <br/>      ##############    <br/>      ##############  ##<br/>#  #  ############## ###<br/>########################<br/>,.;ADTabdeghilmnorstuvwy</pre>|  
 
+[Ссылка на код](training3.0/01_histogram.py)  
+
 [Вернуться к содержанию](#contents)
 
 ---
@@ -81,6 +83,8 @@
 |Ввод       |Вывод      |
 |-----------|-----------|
 |2<br/>helto|3<br/><br/>|
+
+[Ссылка на код](training3.0/02_beautystring.cpp)  
 
 [Вернуться к содержанию](#contents)
 
@@ -123,6 +127,8 @@
 |---------------------------------|-----------------------|
 |3<br/>100 1 50<br/>3<br/>300 0 75|3<br/>0<br/>2<br/><br/>|
 
+[Ссылка на код](training3.0/03_collector_diego.py)  
+
 [Вернуться к содержанию](#contents)
 
 ---
@@ -161,6 +167,8 @@
 |Ввод                 |Вывод                 |
 |---------------------|----------------------|
 |25<br/>13<br/>7<br/>1|-1<br/><br/><br/><br/>|
+
+[Ссылка на код](training3.0/04_test.py)  
 
 [Вернуться к содержанию](#contents)
 
@@ -223,6 +231,8 @@
 |Ввод         |Вывод                      |
 |-------------|---------------------------|
 |push 3<br/>push 14<br/>size<br/>clear<br/>push 1<br/>back<br/>push 2<br/>back<br/>pop<br/>size<br/>pop<br/>size<br/>exit|ok<br/>ok<br/>2<br/>ok<br/>ok<br/>1<br/>ok<br/>2<br/>2<br/>1<br/>1<br/>0<br/>bye|
+
+[Ссылка на код](training3.0/11_stack_error_protected.cpp)  
 
 [Вернуться к содержанию](#contents)
 
